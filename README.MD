@@ -729,6 +729,8 @@ validationErrors|Object
 
 *VersionInfo*
 
+字段名|类型
+-|-
 id|Integer
 appVersionId|Integer
 packageName|String
@@ -936,6 +938,7 @@ revisingComments|Object[]
 **Body JSON**
 
 字段名|类型
+-|-
 attainedLevel|Integer[]
 bookId|Integer
 diff|Integer[]
